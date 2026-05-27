@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "title": "测试",
+    "author": "test",
+    "category": "网文",
+    "link": "https://example.com/book-download"
+  }
+]
